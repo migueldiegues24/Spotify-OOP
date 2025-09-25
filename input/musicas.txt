@@ -1,0 +1,100 @@
+Blinding Lights;The Weeknd;Republic Records;letra;I said, ooh, I'm blinded by the lights, No, I can't sleep until I feel your touch;Pop;200;false;https://youtu.be/4NRXx6U8ABQ
+Shape of You;Ed Sheeran;Asylum Records;poema;I'm in love with the shape of you, We push and pull like a magnet do, Although my heart is falling too, I'm in love with your body;Pop;233;false;https://youtu.be/JGwWNGJdvx8
+Believer;Imagine Dragons;Interscope;letra;Pain! You made me a, you made me a believer, believer, Pain! You break me down, you build me up, believer, believer;Rock;204;false;https://youtu.be/7wtfhZwyrcc
+Bad Guy;Billie Eilish;Darkroom;poema;So you're a tough guy, Like it really rough guy, Just can't get enough guy, Chest always so puffed guy, I'm that bad type, Make your mama sad type, Make your girlfriend mad type, Might seduce your dad type, I'm the bad guy, duh;Alternative;194;true;https://youtu.be/DyDfgMOUjCI
+Uptown Funk;Mark Ronson ft. Bruno Mars;RCA Records;letra;Don't believe me, just watch, Uptown Funk you up, Uptown Funk you up, Uptown Funk you up, Uptown Funk you up;Funk;269;false;https://youtu.be/OPf0YbXqDm0
+Dancing in the Rain;Sophie Ray;Oceanic Records;letra;I feel the rhythm in my soul,As the raindrops start to fall,Spinning under city lights,Dancing like there's no tomorrow;Pop;215;false;https://youtu.be/aB9xT7pLkQ2
+Midnight Roads;Jack Rivers;Silverline Music;poema;The midnight roads call my name,Whispers echo through the lane,Stars above guide my way,Into dreams where I stay;Rock;240;false;https://youtu.be/xNp7fRdA3Bw
+Sunset Boulevard;The Echoes;Sunset Studios;letra;Golden skies and fading light,Never wanted this night to end,Waves of sound, they carry me,On this boulevard of dreams;Indie;230;false;
+Heartstrings;Emma Blue;Bluebird Records;letra;Pulling at my heartstrings tight,Love's a song in the quiet night,Every note a whisper true,Playing just for you;Acoustic;195;false;https://youtu.be/jHwVQbZsX91
+City Lights;Neon Pulse;Electric Wave;poema;Neon lights flicker in the haze,Lost inside the city's maze,Heartbeat synced to urban sound,In these streets I'm spellbound;Electronic;210;false;
+Frozen Dreams;Luna Frost;Crystal Beats;letra;Frozen dreams beneath the stars,Caught between the moon and Mars,Silent wishes on the breeze,Carried softly through the trees;Alternative;220;false;https://youtu.be/yLd9M4NaFq7
+Wildfire;Ryder Lane;Firestorm Records;letra;Burning bright like wildfire's flame,Cannot be tamed or chained,Running free through open fields,This passion never yields;Country;205;false;
+Echoes of You;Maya Grey;Silverline Music;poema;Echoes of you in every song,Memories that linger long,Softly calling through the night,Guiding me to morning light;Pop;225;false;https://youtu.be/wXpKdTrsM2B
+Broken Compass;The Wanderers;Roadtrip Records;letra;Lost without a map or guide,Searching for the changing tide,Every step a story told,In the wild, brave and bold;Rock;235;false;
+Moonlight Sonata;Oliver Key;Classic Tunes;poema;Moonlight dances on the keys,Melodies drift on the breeze,Timeless notes forever stay,Echoing at break of day;Classical;260;false;https://youtu.be/vHtN7RWxYpL
+Heartbeat City;Electric Dawn;Neon Nights;letra;Heartbeat racing through the night,City lights are burning bright,Dancing shadows, endless fun,Until the rising of the sun;Electronic;215;false;
+Silver Lining;Isla White;Dreamscape Records;letra;Every cloud has a silver line,Holding hope through stormy times,Looking up beyond the gray,Finding peace along the way;Folk;200;false;https://youtu.be/zXtYv1QsBR9
+Golden Horizon;The Sunsets;Skyline Records;poema;Golden horizons calling me,Beyond the shore and open sea,New adventures wait ahead,In every step that I tread;Pop;230;false;
+Storm Chaser;Ryder Lane;Firestorm Records;letra;Chasing storms across the plains,Feeling wild inside my veins,Lightning strikes and thunder roars,Freedom’s calling, hear it soar;Country;210;false;https://youtu.be/mRnPL45WsAx
+Velvet Night;Luna Frost;Crystal Beats;poema;Velvet night so dark and deep,Secrets that the shadows keep,Whispered dreams on midnight air,Silent moments, soft and rare;Alternative;220;false;
+Lost in Translation;Neon Pulse;Electric Wave;letra;Words unspoken, hearts collide,Lost in translation, side by side,Searching for a common tongue,In a song that’s just begun;Electronic;225;false;https://youtu.be/nVkEj2LcUoM
+Rust and Roses;Emma Blue;Bluebird Records;poema;Rust and roses side by side,Beauty where the past resides,Fading petals, stories old,Love and loss in colors bold;Acoustic;195;false;
+Open Road;The Wanderers;Roadtrip Records;letra;Open road and endless sky,Freedom calls, no need to hide,Every mile a brand new start,Winding roads inside my heart;Rock;240;false;https://youtu.be/qHxYK6CsWZp
+Crystal Waves;Isla White;Dreamscape Records;letra;Crystal waves beneath the sun,Glistening till day is done,Ocean's song, a soothing balm,Filling hearts with gentle calm;Folk;210;false;
+Midnight Reverie;Oliver Key;Classic Tunes;poema;Midnight reverie softly plays,Through the dark and moonlit haze,Timeless tunes that heal and mend,Music's magic without end;Classical;255;false;https://youtu.be/bVzRpLf9XEs
+Summer Breeze;The Sunsets;Skyline Records;letra;Feel the summer breeze so light,Waves are sparkling in the night,Sunset paints the sky in gold,Stories waiting to be told;Pop;220;false;https://youtu.be/a9X7sN2LyM3
+Wild Hearts;Ryder Lane;Firestorm Records;poema;Wild hearts run free and bold,Chasing dreams in stories told,No chains to bind, no fears to hold,Freedom’s fire never cold;Country;205;false;
+Neon Dreams;Electric Dawn;Neon Nights;letra;Neon dreams light up the sky,Electric pulses passing by,Dancing through the city streets,Rhythm in our hearts repeats;Electronic;215;false;https://youtu.be/wE9pLsZmQxT
+Whispered Secrets;Luna Frost;Crystal Beats;poema;Whispered secrets in the dark,Hidden truths ignite a spark,Silent voices call my name,In this never-ending game;Alternative;230;false;https://youtu.be/cJk45XsWyV7
+Golden Days;Emma Blue;Bluebird Records;letra;Golden days and skies so clear,Memories I hold so dear,Sunshine warming every face,Laughter echoing through space;Acoustic;200;false;
+City Shadows;The Wanderers;Roadtrip Records;poema;City shadows stretch and grow,Secrets only they can know,Footsteps echo down the lane,Lost within the urban maze;Rock;240;false;https://youtu.be/mLpKs9FyTq1
+Ocean Eyes;Isla White;Dreamscape Records;letra;Ocean eyes so deep and blue,Reflecting skies of morning dew,Calm and peaceful, soft and true,A love that always feels new;Folk;210;false;
+Silent Thunder;Jack Rivers;Silverline Music;poema;Silent thunder breaks the night,Power hidden out of sight,Storms may rage but never show,Strength in silence starts to grow;Rock;235;false;https://youtu.be/qHwTk7XbYzL
+Midnight Dance;Neon Pulse;Electric Wave;letra;Midnight dance beneath the stars,City lights and passing cars,Rhythms moving through the crowd,Lost in music, feeling proud;Electronic;220;false;
+Paper Planes;Oliver Key;Classic Tunes;poema;Paper planes fly through the air,Dreams and wishes everywhere,Floating softly, flying high,Touching clouds up in the sky;Classical;250;false;
+Starlit Path;Sophie Ray;Oceanic Records;letra;Walking down a starlit path,Guided by the aftermath,Hope and dreams beside me stay,Lighting up my way;Pop;215;false;https://youtu.be/tXkLsQrNc9J
+Broken Wings;Maya Grey;Silverline Music;poema;Broken wings but still I fly,Reaching for the endless sky,Every fall a lesson learned,Every scar a bridge I've earned;Pop;225;false;
+Rusty Chains;The Wanderers;Roadtrip Records;letra;Rusty chains and open roads,Freedom sings in heavy loads,Breaking through the past's embrace,Finding strength in every place;Rock;240;false;https://youtu.be/gLpQt3WyUzX
+Moonlit Dreams;Luna Frost;Crystal Beats;poema;Moonlit dreams in silent nights,Dancing in the soft moonlight,Whispered hopes and gentle sighs,Magic under velvet skies;Alternative;220;false;
+Sunrise Glow;Emma Blue;Bluebird Records;letra;Sunrise glow on morning dew,Promises that feel so new,Every day a chance to grow,In the light’s warm golden flow;Acoustic;200;false;
+Electric Pulse;Neon Pulse;Electric Wave;poema;Electric pulse through veins and hearts,Music's beat in all our parts,Neon lights and endless fun,Dancing till the night is done;Electronic;215;false;
+River Flow;Isla White;Dreamscape Records;letra;River flow so calm and clear,Carrying dreams both far and near,Softly singing nature’s song,Guiding us where we belong;Folk;210;false;https://youtu.be/sLpUr9BnYvZ
+Thunder Road;Ryder Lane;Firestorm Records;poema;Thunder road beneath my feet,Echoes of a pounding beat,Chasing storms and breaking free,Wild and fierce as I can be;Country;205;false;
+Silent Echo;Jack Rivers;Silverline Music;letra;Silent echo in the hall,Faintest whispers, shadows call,Memories that never fade,In the silence, love is made;Rock;235;false;
+Velvet Skies;Sophie Ray;Oceanic Records;poema;Velvet skies at evening’s end,Colors blend and gently bend,Stars appear and softly shine,In this night so pure, divine;Pop;215;false;https://youtu.be/uXpAvL8NyX3
+Golden Leaves;The Sunsets;Skyline Records;letra;Golden leaves fall soft and slow,Dancing with the autumn glow,Memories wrapped in every breeze,Whispers carried by the trees;Pop;220;false;
+Broken Roads;The Wanderers;Roadtrip Records;poema;Broken roads and faded signs,Journeys past and shifting times,Every step a brand new chance,To join life’s eternal dance;Rock;240;false;
+Ocean Breeze;Isla White;Dreamscape Records;letra;Ocean breeze upon my face,Soothing waves in soft embrace,Nature’s song, a healing tune,Beneath the glowing moon;Folk;210;false;
+Starlight Glow;Luna Frost;Crystal Beats;poema;Starlight glow on icy streams,Carrying our hopes and dreams,Silent night with magic near,Filling hearts with light and cheer;Alternative;220;false;https://youtu.be/wRpMxJnCqY0
+Midnight Road;Neon Pulse;Electric Wave;letra;Midnight road and endless skies,City dreams in neon eyes,Running fast through endless night,Chasing down the morning light;Electronic;215;false;
+Firefly;Emma Blue;Bluebird Records;poema;Firefly in summer’s glow,Dancing lights that softly show,Magic moments, fleeting bright,Glowing in the dark of night;Acoustic;200;false;
+Creatures;Motionless In White;Fearless Records;letra;We are the creatures of the night,Darkness hides our frozen light,Silent screams and whispered lies,In the shadows, no disguise;Metalcore;235;true;https://youtu.be/mIw7bP1ZxA7
+Voices;Motionless In White;Fearless Records;poema;Voices echo in my mind,Darker than the blackest night,Calling me to lose control,Shadows swallow all my soul;Metalcore;245;false;https://youtu.be/nK3PjB_5e8Q
+Eternally Yours;Motionless In White;Fearless Records;letra;Eternally yours in endless pain,Chasing ghosts that leave a stain,Broken hearts and shattered dreams,Nothing is ever as it seems;Metalcore;240;true;https://youtu.be/fWuFfYJ8Bc8
+Another Life;Motionless In White;Fearless Records;poema;Another life, another chance,To rewrite this dark romance,Lost in time, forever caught,Battles won but wars are fought;Metalcore;230;false;
+Disguise;Motionless In White;Fearless Records;letra;Wearing masks to hide the scars,Living under broken stars,Truth and lies forever blurred,In this nightmare undisturbed;Metalcore;238;true;https://youtu.be/h9PtGZrThCc
+570;Motionless In White;Fearless Records;poema;Counting down the empty days,Lost inside this endless maze,Searching for a light to find,Hope and peace within my mind;Metalcore;220;false;https://youtu.be/gZmYfMR_F1s
+Legacy;Motionless In White;Fearless Records;letra;Leaving behind a legacy of pain,Broken hearts that feel the rain,Rising from the ashes low,Stronger than you'll ever know;Metalcore;250;true;
+Sinematic;Motionless In White;Fearless Records;poema;Sinematic scenes replay my mind,Fighting battles left behind,Every frame a scar so deep,In this darkness I can't sleep;Metalcore;235;false;https://youtu.be/kYxJOaWUx8c
+Masterpiece;Motionless In White;Fearless Records;letra;A masterpiece of broken dreams,Silent screams and shattered schemes,Perfect flaws in every part,A twisted canvas of the heart;Metalcore;240;true;https://youtu.be/qwRpNy9RxoY
+Ghost in the Mirror;Motionless In White;Fearless Records;poema;Ghost in the mirror stares at me,Reflection of who I used to be,Fading fast into the night,Lost within the fading light;Metalcore;225;false;
+Neon Horizon;Electric Dawn;Neon Nights;letra;Neon horizon lights the way,Guiding us to a brighter day,Colors bursting, skies ablaze,Dancing through electric haze;Electronic;220;false;https://youtu.be/xPqLaC1wL7Q
+Silver Lining;Emma Blue;Bluebird Records;poema;Silver lining in the storm,Guides my heart and keeps me warm,Every trial makes me strong,Writing my own endless song;Acoustic;210;false;
+Crimson Tide;Ryder Lane;Firestorm Records;letra;Crimson tide and raging seas,Fighting hard for what we please,Storms may come and winds may blow,But our fire will always grow;Country;230;false;
+City Lights;The Wanderers;Roadtrip Records;poema;City lights that never sleep,Secrets buried far too deep,Neon glow on crowded streets,Where the lost and lonely meet;Rock;245;false;https://youtu.be/yTwOpM8Lxh8
+Echoes of Time;Luna Frost;Crystal Beats;letra;Echoes of time in silent halls,Whispers linger, memory calls,Fading footsteps on the floor,Stories told forevermore;Alternative;225;false;
+Midnight Voyage;Neon Pulse;Electric Wave;poema;Midnight voyage through the stars,Chasing dreams on passing cars,Endless road and open sky,Freedom’s call as we fly by;Electronic;215;false;
+Golden Hour;Sophie Ray;Oceanic Records;letra;Golden hour in fading light,Painting skies with colors bright,Moments captured, hearts aligned,Treasures found we’ll never mind;Pop;210;false;
+Waves of Change;Isla White;Dreamscape Records;poema;Waves of change upon the shore,New beginnings to explore,Every tide a fresh new start,Healing oceans in my heart;Folk;220;false;https://youtu.be/zWrRpLtN1aM
+Broken Chains;Jack Rivers;Silverline Music;letra;Broken chains and open skies,Breaking free from all the lies,Strength inside begins to rise,Time to live and realize;Rock;230;false;
+Starlight Serenade;Oliver Key;Classic Tunes;poema;Starlight serenade so sweet,Melodies that hearts will meet,Softly playing through the night,Guiding us with gentle light;Classical;250;false;
+Paper Moon;Emma Blue;Bluebird Records;letra;Paper moon and silver beams,Shining softly through my dreams,Light that guides me on my way,Night and stars will never stray;Acoustic;200;false;
+Road to Nowhere;The Wanderers;Roadtrip Records;poema;Road to nowhere, endless miles,Searching for forgotten smiles,Every step a brand new fight,Chasing shadows in the night;Rock;240;false;
+Fire and Rain;Ryder Lane;Firestorm Records;letra;Fire and rain, a bittersweet song,Fighting hard to right the wrong,Nature’s fury, heart’s embrace,Finding hope in every place;Country;225;false;
+Crystal Dreams;Luna Frost;Crystal Beats;poema;Crystal dreams and moonlit skies,Dancing light that never dies,Whispers soft and shadows deep,Secrets that we always keep;Alternative;220;false;
+Electric Heartbeat;Neon Pulse;Electric Wave;letra;Electric heartbeat, pounding fast,Music’s rhythm made to last,Neon lights and endless nights,Feeling alive in city heights;Electronic;215;false;
+Silent Storm;Jack Rivers;Silverline Music;poema;Silent storm beneath the skin,Fighting battles deep within,Quiet strength and fierce will,Climbing every endless hill;Rock;235;false;https://youtu.be/fLpRxAzX9XQ
+Ocean Whisper;Isla White;Dreamscape Records;letra;Ocean whisper calls my name,Soft and gentle, not the same,Waves that heal and tides that mend,Nature’s voice that never ends;Folk;210;false;
+Velvet Moon;Sophie Ray;Oceanic Records;poema;Velvet moon and starry night,Guiding me with silver light,Mysteries wrapped in the dark,Magic burning like a spark;Pop;215;false;https://youtu.be/oVrNyXWbRsX
+Northern Lights;Emma Blue;Bluebird Records;letra;Northern lights that dance and gleam,Painting skies with every dream,Colors swirl and fade away,Leaving hope to light the way;Acoustic;200;false;
+Broken Silence;The Sunsets;Skyline Records;poema;Broken silence, voices loud,Breaking through the darkest cloud,Words unspoken, hearts that bleed,In the quiet, we’re freed;Pop;220;false;
+Fading Stars;Luna Frost;Crystal Beats;letra;Fading stars in endless space,Lost forever, time and place,Memories drift on the breeze,Echoes carried through the trees;Alternative;225;false;
+High Tide;Ryder Lane;Firestorm Records;poema;High tide rolling on the shore,Bringing dreams and so much more,Nature’s call and ocean’s song,Guiding us where we belong;Country;230;false;
+Midnight Sky;Neon Pulse;Electric Wave;letra;Midnight sky so vast and deep,Secrets in the shadows keep,Neon lights and city’s hum,Waiting for the morning sun;Electronic;215;false;
+Golden Fields;Jack Rivers;Silverline Music;poema;Golden fields and summer’s glow,Winds that gently rise and flow,Peaceful days and starry nights,Moments filled with pure delights;Rock;230;false;
+Distant Shores;Isla White;Dreamscape Records;letra;Distant shores and endless seas,Calling out with gentle breeze,Waves that sing a lullaby,Underneath the open sky;Folk;210;false;
+Shadow Dance;Sophie Ray;Oceanic Records;poema;Shadow dance in candlelight,Moving softly through the night,Mysteries that no one sees,Whispered secrets on the breeze;Pop;215;false;
+Rust and Gold;The Wanderers;Roadtrip Records;letra;Rust and gold and faded dreams,Broken hopes and silent screams,Journey’s end and new begin,Finding strength from deep within;Rock;240;false;
+Silent Wings;Emma Blue;Bluebird Records;poema;Silent wings that carry me,Over land and endless sea,Freedom’s call and open sky,Rising up to fly so high;Acoustic;200;false;
+Endless Road;Ryder Lane;Firestorm Records;letra;Endless road beneath my feet,Searching for a dream to meet,Every step a brand new chance,In this life’s eternal dance;Country;225;false;
+Neon Rain;Neon Pulse;Electric Wave;poema;Neon rain falls soft and light,Washing over city night,Electric dreams and fading stars,Taking us to distant bars;Electronic;215;false;
+Firelight;Luna Frost;Crystal Beats;letra;Firelight in shadowed eyes,Burning bright beneath the skies,Heat that warms and fuels the soul,Making broken spirits whole;Alternative;220;false;
+Broken Glass;Jack Rivers;Silverline Music;poema;Broken glass and shattered dreams,Nothing ever as it seems,Pieces fall and cut so deep,Promises we cannot keep;Rock;235;false;https://youtu.be/wLpQzAxWbNz
+Ocean Tide;Isla White;Dreamscape Records;letra;Ocean tide and sandy shore,Calling me forevermore,Waves that heal and tides that mend,Nature’s voice that never ends;Folk;210;false;
+Velvet Night;Sophie Ray;Oceanic Records;poema;Velvet night and quiet breeze,Whispered secrets through the trees,Stars that shine so soft and bright,Guiding me throughout the night;Pop;215;false;
+Northern Glow;Emma Blue;Bluebird Records;letra;Northern glow and frosty air,Colors dancing everywhere,Magic moments wrapped in light,Filling hearts with pure delight;Acoustic;200;false;
+Undead Ahead 2: The Tale of the Midnight Ride;Motionless In White;Fearless Records;letra;Ride through the night, undead ahead,Shadows fall and voices dread,Midnight tales that chill the bone,Fighting darkness all alone;Metalcore;240;true;https://youtu.be/aB9nJvFX7Pc
+Disguise (Acoustic);Motionless In White;Fearless Records;poema;Stripped away, the truth revealed,Emotions raw, wounds unsealed,Silent whispers, hearts confess,In this quiet, no distress;Metalcore;230;false;
+B.F.B.T.G.;Motionless In White;Fearless Records;letra;Burning fire, fierce and wild,Fighting demons, inner child,Breaking chains to stand and fight,Darkness turns into light;Metalcore;225;false;https://youtu.be/dY_zOml2VPg
+Rest in Peace;Motionless In White;Fearless Records;poema;Rest in peace, the battles cease,Finding solace, finding peace,Echoes fade into the night,Leaving darkness for the light;Metalcore;235;true;

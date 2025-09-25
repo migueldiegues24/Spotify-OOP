@@ -1,0 +1,5 @@
+RapMix;Aleatoria;miguel@email.com;Blinding Lights-The Weeknd,Shape of You-Ed Sheeran;false
+ChillHits;Personalizada;miguel@email.com;Believer-Imagine Dragons,Uptown Funk-Mark Ronson ft. Bruno Mars;true
+RockTime;Personalizada;ana@email.com;Believer-Imagine Dragons,Bad Guy-Billie Eilish;false
+Top10;Favoritos;ines@email.com;;true
+MIW;Personalizada;nuno@email.com;Creatures-Motionless In White,Voices-Motionless In White,Eternally yours-Motionless In White,Another life-Motionless In White,Disguise-Motionless In White,570-Motionless In White,Legacy-Motionless In White,Sinematic-Motionless In White,Masterpiece-Motionless In ;true

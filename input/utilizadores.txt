@@ -1,0 +1,25 @@
+joana;joana@email.com;Lisboa;abc123;1
+miguel;miguel@email.com;Porto;passw;2
+ines;ines@email.com;Braga;1234;3
+carlos;carlos@email.com;Coimbra;senha1;1
+ana;ana@email.com;Faro;segredo;2
+rui;rui@email.com;Aveiro;senha2;3
+marta;marta@email.com;Évora;pass123;1
+diana;diana@email.com;Guimarães;palavra;2
+tiago;tiago@email.com;Leiria;123abc;3
+beatriz;beatriz@email.com;Viseu;codigo;1
+nuno;nuno@email.com;Guimaraes;nunopass;3
+lara;lara@email.com;Funchal;funchal123;1
+pedro;pedro@email.com;Santarém;pedro321;3
+sara;sara@email.com;Beja;sarinha;2
+joao;joao@email.com;Bragança;joaopass;1
+clara;clara@email.com;Castelo Branco;clarinha;3
+ricardo;ricardo@email.com;Viana do Castelo;123senha;1
+sofia;sofia@email.com;Vila Real;realsofia;2
+andre;andre@email.com;Portalegre;andpass;3
+filipa;filipa@email.com;Guarda;filiseg;1
+marco;marco@email.com;Lisboa;marcoseg;2
+vera;vera@email.com;Porto;verinha;1
+diogo;diogo@email.com;Faro;diogopass;3
+raquel;raquel@email.com;Coimbra;raq123;2
+bruno;bruno@email.com;Aveiro;brunosenha;1
