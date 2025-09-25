@@ -39,18 +39,19 @@ Additional functionalities:
 
 ## 🧠 Project Structure
 
+```bash
 POO/
-├── bin/ # Compiled .class files
-├── src/ # Source code (.java)
-│ ├── models/ # Core entities (Song, Playlist, Album, User, etc.)
-│ ├── services/ # Business logic (PlaybackManager, PlaylistGenerator, Statistics, etc.)
-│ └── utils/ # Persistence and helpers
-├── tests/ # Unit tests
-├── data/ # Example input and saved states
-├── Makefile # Simplified compilation (optional)
-└── relatorio.pdf # Final report
+├── bin/              # Compiled .class files
+├── src/              # Source code (.java)
+│   ├── models/       # Core entities (Song, Playlist, Album, User, etc.)
+│   ├── services/     # Business logic (PlaybackManager, PlaylistGenerator, Statistics, etc.)
+│   └── utils/        # Persistence and helpers
+├── tests/            # Unit tests
+├── data/             # Example input and saved states
+├── Makefile          # Simplified compilation
+└── relatorio.pdf     # Final report
 
-
+```
 ---
 
 ## 🚀 Compilation & Execution
