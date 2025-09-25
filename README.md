@@ -1,10 +1,9 @@
-# POO Project – SpotifUM 🎵
+# POO Project – SpotifyUM 🎵
 
 👨‍💻 Authors
 
 * Miguel Rocha Diegues - A107361 - migueldiegues24  
 * Francisco Jorge Salgado de Castro - A104433 - franciscocastro7  
-* Nuno Marco Pacheco da Silva - A99432 - Kouraan  
 
 ---
 
